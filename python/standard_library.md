@@ -42,4 +42,8 @@
     
     inspect.getmembers(MyClass, inspect.isfunction)
     ```
+    
 
+## `pathlib`
+
+- `PurePath.name` to get a string with the name of the file
