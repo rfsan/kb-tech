@@ -20,3 +20,10 @@
 - Use crosstab (can do the same as pivot and more)
 - Use pyarrow
 - Use merge
+
+## Configurations I like
+
+```python
+pd.set_option("display.max_columns", None)
+pd.set_option("plotting.backend", "plotly")
+```
