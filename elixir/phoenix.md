@@ -110,4 +110,4 @@
 
 ## Investigate
 
-- Qué son los Contexts?
+- Por qué se usan las migraciones?
